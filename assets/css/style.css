@@ -50,7 +50,7 @@ label{
     background-color: var(--bg-color);
     border: 1px solid var(--bg-color);
     box-shadow: 1.5px 1.5px 5px rgba(0, 0, 0, 0.5);
-    color: rgb(194, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 0px;
     border-radius: 6px;
     padding: 2px 12px 2px 12px;
@@ -74,7 +74,6 @@ label{
 .compradores, .vendedores {
     position: relative;
 }
-
 .compradores input, .vendedores input {
     width: 100%;
     border: 0;
